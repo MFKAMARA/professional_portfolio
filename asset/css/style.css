@@ -17,3 +17,21 @@ ul a{
     text-decoration: none;
     color: black;
 }
+.intro{
+    background-image: url(images/02-hero-bg.jpg);
+}
+/* this the about me section */
+#about{
+    display: flex;
+    margin-right: 3rem;
+}
+#about h1{
+    width: 35%;
+    text-align: end;
+    margin-right: 1rem;
+}
+#about p{
+    max-width: 60%;
+    border-left: solid black 4px;
+    padding: 1rem 2rem;
+}
