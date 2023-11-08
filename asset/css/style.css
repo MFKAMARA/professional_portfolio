@@ -35,3 +35,24 @@ ul a{
     border-left: solid black 4px;
     padding: 1rem 2rem;
 }
+/* work section */
+.work{
+    display: flex;
+    margin-right: 3rem;
+    flex-direction: row;
+}
+#work{
+    width: 60%;
+    border-left: solid black 4px;
+    
+}
+.large-image{
+    height: 18rem;
+}
+.projects img{
+    height: 8rem;
+    width: 16rem;
+}
+.work h1{
+    width: 30%;
+}
