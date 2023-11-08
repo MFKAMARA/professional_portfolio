@@ -4,16 +4,25 @@ Professional Portfolio Project - README
 Table of Contents
 
 •	Introduction
+
 •	Project Overview
+
 •	Technologies Used
+
 •	Installation
+
 •	Usage
+
 •	Features
+
 •	Contributing
+
 •	License
+
 •	Introduction
 
 Hello, I'm Maliki Kamara, a web development student, and this is my professional portfolio project. In this README, I will provide an overview of this project, the technologies I've used, instructions for installation and usage, a list of features, and how you can contribute to this project.
+
 
 Project Overview
 
@@ -25,6 +34,7 @@ This project serves as my personal professional portfolio website, showcasing my
 •	Provide a means for potential employers or collaborators to get in touch with me.
 •	The portfolio website is designed to be user-friendly, responsive, and visually appealing, providing visitors with a positive experience while learning about my work.
 
+
 Technologies Used
 
 I have employed a variety of technologies and tools to create this project. Some of the key technologies used include:
@@ -34,17 +44,20 @@ I have employed a variety of technologies and tools to create this project. Some
 •	Bootstrap framework for responsive design.
 •	Git and GitHub for version control.
 
+
 Installation
 
 If you'd like to run this project locally or explore the code, you can follow these steps:
 
 Clone this repository to your local machine using Git:
 
+
 Usage
 
 After the installation is complete, you can run the project locally by using the following command:
 
 This will start a local development server, and you can access the portfolio website in your web browser by navigating to
+
 
 Features
 
@@ -55,6 +68,7 @@ My portfolio project includes the following features:
 •	Resume: A downloadable version of my resume.
 •	Contact: Contact information and a form for visitors to get in touch with me.
 The website is designed to be responsive, ensuring that it looks great on various devices and screen sizes.
+
 
 Contributing
 
@@ -67,6 +81,7 @@ Push your changes to your fork: git push origin feature/your-feature-name.
 Create a pull request to the original repository.
 Provide a detailed description of your changes in the pull request.
 I will review the pull requests and merge them as appropriate. Your contributions are greatly appreciated!
+
 
 License
 
