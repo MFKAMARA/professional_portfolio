@@ -17,6 +17,10 @@ ul a{
     text-decoration: none;
     color: black;
 }
+figure{
+    width: 50%;
+    height: 18%;
+}
 .intro{
     background-image: url(images/02-hero-bg.jpg);
 }
@@ -40,7 +44,6 @@ ul a{
     display: flex;
     flex-wrap: wrap;
     width: 100%;
-
     text-align: right;
     
 }
