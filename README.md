@@ -1,7 +1,4 @@
 # professional_portfolio
-<<<<<<< HEAD
-
-=======
 Professional Portfolio Project - README
 
 Table of Contents
@@ -92,4 +89,3 @@ This project is licensed under the MIT License. You are free to use and modify t
 
 Thank you for visiting my professional portfolio project, and I hope you enjoy exploring my work and experiences as a web development student. If you have any questions or feedback, please feel free to contact me.
 ![image](https://github.com/MFKAMARA/professional_portfolio/assets/143867229/b795bd19-961a-4afc-833d-4595c9170736)
->>>>>>> 67f637c288d077627df0b335660fbc28ff9f3ea0
