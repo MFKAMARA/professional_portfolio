@@ -9,7 +9,7 @@ Table of Contents
 
 •	Technologies Used
 
-•	Installation
+•	mockup
 
 •	Usage
 
@@ -45,12 +45,10 @@ I have employed a variety of technologies and tools to create this project. Some
 •	Git and GitHub for version control.
 
 
-Installation
+Mockup
 
-If you'd like to run this project locally or explore the code, you can follow these steps:
-
-Clone this repository to your local machine using Git:
-
+![Alt text](<Screenshot 2023-11-10 at 12.29.42 AM.png>)
+![Alt text](<Screenshot 2023-11-10 at 12.29.54 AM.png>)
 
 Usage
 
